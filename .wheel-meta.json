@@ -1,0 +1,22 @@
+{
+  "wheel_id": 762,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-115",
+  "project": "roller-door-repairs-brisbane-common-mistakes-8d0fb1dcee2888cfd6",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-157",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane common mistakes",
+  "intended_url": "http://roller-door-repairs-brisbane-common-mistakes-8d0fb1dcee2888cfd6.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d4e194dfaabc505c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorsrepairbrisbane-157/",
+      "anchor": "the roller door repairs brisbane overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
